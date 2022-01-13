@@ -17,3 +17,6 @@ https://31239334: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@github.com/31239334/te
 
 31239334为GitHub的用户名，后面为生成的个人密钥，30天有效。
 
+
+
+又发现几分钟后token失效了，重新生成了一个密钥后正确push
