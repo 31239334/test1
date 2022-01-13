@@ -11,4 +11,9 @@
 
 
 
+远程仓库路径改为：
+
 https://31239334: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@github.com/31239334/test1
+
+31239334为GitHub的用户名，后面为生成的个人密钥，30天有效。
+
