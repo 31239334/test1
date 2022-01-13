@@ -1,0 +1,5 @@
+mimo.txt
+*.rbc
+!test.rbc
+template_c/
+/log/
